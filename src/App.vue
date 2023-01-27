@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-full font-Poppins box-border">
+  <div class="min-h-screen flex flex-col justify-between font-Poppins box-border">
     <Navigation />
     <section class="overflow-hidden mb-20">
       <router-view class="app-main" />

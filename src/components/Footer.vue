@@ -1,5 +1,5 @@
 <template>
-    <footer class="text-center bg-gray-900 text-white">
+    <footer class="text-center bg-gray-900 text-white position-absolute bottom-0">
       <div class="text-center p-4">
         © 2022 Copyright:
         <a class="text-whitehite">Ironhack</a>
